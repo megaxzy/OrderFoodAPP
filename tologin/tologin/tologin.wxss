@@ -1,0 +1,5 @@
+.button {
+	margin: 50px 40px;
+  background: #E81548;
+	color: white;
+}
